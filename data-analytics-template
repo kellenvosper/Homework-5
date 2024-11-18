@@ -1,0 +1,24 @@
+data-analytics-template/
+│
+├── data/                    # Data folder for raw, processed, and metadata files
+│   ├── raw/                 # Original datasets (read-only)
+│   ├── processed/           # Cleaned and transformed datasets
+│   ├── metadata/            # Data dictionary and related information
+│
+├── notebooks/               # Jupyter notebooks for analysis
+│   ├── 00-template.ipynb    # Template notebook
+│   ├── exploratory/         # Notebooks for EDA (Exploratory Data Analysis)
+│   ├── final/               # Final notebooks for presentation or reporting
+│
+├── scripts/                 # Python scripts for data processing and utility functions
+│
+├── reports/                 # Generated reports and visualizations
+│   ├── figures/             # Figures and plots
+│
+├── .gitignore               # Ignore files for version control
+│
+├── CHANGELOG.md             # Track changes to the project
+│
+├── README.md                # Main README file
+│
+└── TODO.md                  # To-do items and project backlog
