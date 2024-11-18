@@ -5,3 +5,14 @@ Usage: Click on the files for usage.
 Dependencies: Pandas, Numpy, MatplotLib, Seaborn.
 Contributing: Guidelines for contributions.
 License: MIT License.
+
+
+# Data Folder
+
+## Purpose
+This folder stores datasets used in the project.
+
+## Contents
+- `raw/`: Unaltered datasets.
+- `processed/`: Cleaned and transformed datasets.
+- `metadata/`: Data dictionary and other descriptive files.
